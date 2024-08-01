@@ -2,6 +2,8 @@
 
 ### Lista de exercícios - Revisão de algoritmos
 
+Obs.: não usar função de ordenação de vetor
+
 1. Implemente um algoritmo que verifique parênteses, colchetes e chaves correspondentes. Esse
    algoritmo deve receber um valor String de entrada e retornar um Boolean.
    Exemplo.:
@@ -20,4 +22,4 @@
    Uma transformação mais curta é “hit” -> “hot” -> “dot” -> “dog” -> “cog”. Assim, o programa deve
    retornar o comprimento 5 e o caminho percorrido
 4. Encontre o k-ésimo maior elemento de um array desordenado. Por exemplo, dado o array [3, 2, 1, 5, 6,
-   4] e 𝑘 = 2, retorne 5. Assuma que 𝑘 é sempre um valor válido.
+   4] e 𝑘 = 2, retorne 5. Assuma que 𝑘 é sempre um valor válido. (sem numeros repetidos, k não pode estrapolar o tamanho do array, array pode estar desordenado)
