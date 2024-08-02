@@ -5,6 +5,12 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Random;
 
+/*
+ * 4. Encontre o k-ésimo maior elemento de um array desordenado. Por exemplo, dado o array 
+ * [3, 2, 1, 5, 6, 4] e 𝑘 = 2, retorne 5. Assuma que 𝑘 é sempre um valor válido. (sem numeros 
+ * repetidos, k não pode estrapolar o tamanho do array, array pode estar desordenado)
+ */
+
 public class Ex4KEsimoMaiorElemento {
 
     public static void main(String[] args) {

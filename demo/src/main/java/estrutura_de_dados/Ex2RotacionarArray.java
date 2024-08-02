@@ -2,7 +2,13 @@ package estrutura_de_dados;
 
 import java.util.Arrays;
 
-public class RotacionarArray {
+/*
+ * 2. Implemente um algoritmo que rotacione um array de 𝑛 elementos para a direita 
+ * em 𝑘 passos. Por exemplo, com 𝑛 = 7 e 𝑘 = 3, o array [1, 2, 3, 4, 5, 6, 7] é 
+ * modificado para [5, 6, 7, 1, 2, 3, 4].
+ */
+
+public class Ex2RotacionarArray {
 
     public static void main(String[] args) {
         int[] array = {1, 2, 3, 4, 5, 6, 7};
