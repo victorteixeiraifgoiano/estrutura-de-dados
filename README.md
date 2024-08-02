@@ -11,8 +11,7 @@ Obs.: não usar função de ordenação de vetor
    "(1 + 3) / [(3 + 5) * 5]" // Retorna true
    "1 + [3 / (3] + 5)" // Retorna false
    "{1 + [3} / (3 + 5)" // Retorna false
-2. Implemente um algoritmo que rotacione um array de 𝑛 elementos para a direita em 𝑘 passos. Por
-   exemplo, com 𝑛 = 7 e 𝑘 = 3, o array [1, 2, 3, 4, 5, 6, 7] é modificado para [5, 6, 7, 1, 2, 3, 4].
+2. Implemente um algoritmo que rotacione um array de 𝑛 elementos para a direita em 𝑘 passos. Por exemplo, com 𝑛 = 7 e 𝑘 = 3, o array [1, 2, 3, 4, 5, 6, 7] é modificado para [5, 6, 7, 1, 2, 3, 4].
 3. Dada duas palavras (início e fim) e um dicionário, encontre o comprimento da sequência de
    transformação mais curta do início ao fim. De modo que apenas uma letra pode ser alterada por vez
    e cada palavra intermediária deve existir no dicionário, por exemplo:
